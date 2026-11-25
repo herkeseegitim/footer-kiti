@@ -1,0 +1,52 @@
+<!-- Herkese Eğitim footer kiti v1: İspinoz. MIT lisansı, ispinoz çizimi hariç. İspinoz çizimi Herkese Eğitim'indir: bu footer içinde olduğu gibi kullanılabilir, ayrı resim olarak dağıtılmaz, alttaki kredi satırı silinmez. Bkz. LICENSE. herkeseegitim.com
+     Değiştirin: köşeli parantez içindeki her şey ([Sitenizin adı], [Yıl], adresler). Köşeli parantezleri de silin. Başka bir alt bilginiz varsa onu kaldırın: sayfada tek footer olsun. Stil bloğu ve footer birlikte kopyalanır. -->
+<style>.hek-ispinoz,.hek-ispinoz *,.hek-ispinoz *::before,.hek-ispinoz *::after{box-sizing:border-box}.hek-ispinoz{padding:0;text-indent:0}.hek-ispinoz p,.hek-ispinoz ul,.hek-ispinoz li,.hek-ispinoz nav{margin:0;padding:0;text-indent:0;border:0;background:none;box-shadow:none}.hek-ispinoz ul{list-style:none}.hek-ispinoz p,.hek-ispinoz li,.hek-ispinoz nav,.hek-ispinoz a,.hek-ispinoz span,.hek-ispinoz b,.hek-ispinoz small,.hek-ispinoz i{font-family:inherit;font-style:inherit;letter-spacing:inherit;text-transform:none}.hek-ispinoz b,.hek-ispinoz small,.hek-ispinoz span{color:inherit;font-size:inherit;font-weight:inherit;line-height:inherit}.hek-ispinoz a{background:none;border:0;border-radius:0;box-shadow:none;padding:0;margin:0;font-weight:inherit;text-decoration:none;text-indent:0;transition:none;min-width:44px;color:inherit}.hek-ispinoz a:hover,.hek-ispinoz a:focus{background:none;border:0;box-shadow:none}.hek-ispinoz svg{display:block;max-width:none}
+.hek-ispinoz{--hek-ispinoz-gece:#16222B;--hek-ispinoz-acik:#F4E9D6;--hek-ispinoz-soluk:#CDBFA8;--hek-ispinoz-isik:#FFC774;container:hek-ispinoz/inline-size;position:relative;margin:0;background-color:var(--hek-ispinoz-gece);background-image:radial-gradient(ellipse at 12% 40%,rgba(255,180,94,.10),transparent 45%),linear-gradient(180deg,#1E2D38,#141F27);color:var(--hek-ispinoz-acik);font:400 17px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans","Helvetica Neue",Arial,sans-serif;color-scheme:dark;overflow:hidden;overflow-wrap:anywhere;text-align:left}
+.hek-ispinoz-ic{position:relative;max-width:1120px;margin:0 auto;padding:40px 24px 26px}
+.hek-ispinoz-ust{display:flex;flex-wrap:wrap;align-items:center;gap:20px 28px}
+.hek-ispinoz-kus{width:96px;height:96px;flex:none;border-radius:50%;box-shadow:0 0 0 1px rgba(255,199,116,.25),0 10px 30px rgba(0,0,0,.35)}
+.hek-ispinoz-zerre{animation:hek-ispinoz-soluk 3.6s ease-in-out infinite}
+@keyframes hek-ispinoz-soluk{0%,100%{opacity:.18}50%{opacity:.42}}
+.hek-ispinoz-kim{flex:1 1 240px;min-width:0}
+.hek-ispinoz .hek-ispinoz-ad{font-size:26px;font-weight:760;letter-spacing:-.01em;line-height:1.2}
+.hek-ispinoz .hek-ispinoz-cumle{color:var(--hek-ispinoz-soluk);margin-top:4px;font-style:italic}
+.hek-ispinoz-dal{width:100%;height:28px;margin:22px 0 14px}
+.hek-ispinoz-dugmeler{display:flex;flex-wrap:wrap;gap:12px}
+.hek-ispinoz .hek-ispinoz-dugmeler a{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border:2px solid var(--hek-ispinoz-isik);border-radius:999px;color:#FFE7BF;text-decoration:none;font-weight:650;transition:background-color .2s,color .2s}
+.hek-ispinoz .hek-ispinoz-dugmeler a:hover{background:var(--hek-ispinoz-isik);color:#141F27}
+.hek-ispinoz a:focus-visible{outline:3px solid #FFFFFF;outline-offset:3px}
+.hek-ispinoz-alt{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:4px 24px;margin-top:22px;padding-top:8px;border-top:1px solid rgba(244,233,214,.16);font-size:15px;color:var(--hek-ispinoz-soluk)}
+.hek-ispinoz-alt ul{display:flex;flex-wrap:wrap;gap:0 20px}
+.hek-ispinoz .hek-ispinoz-alt a{display:inline-flex;align-items:center;min-height:44px;color:var(--hek-ispinoz-acik);text-decoration:underline;text-decoration-color:rgba(255,199,116,.55);text-underline-offset:4px}
+.hek-ispinoz .hek-ispinoz-alt a:hover{color:var(--hek-ispinoz-isik)}
+@container hek-ispinoz (max-width:560px){.hek-ispinoz-ic{padding:30px 16px 20px}.hek-ispinoz-kus{width:80px;height:80px}.hek-ispinoz .hek-ispinoz-ad{font-size:22px}.hek-ispinoz .hek-ispinoz-dugmeler a{padding:0 14px}}
+@media (prefers-reduced-motion:reduce){.hek-ispinoz.hek-ispinoz.hek-ispinoz.hek-ispinoz *{animation:none;transition:none}}
+@media (forced-colors:active){.hek-ispinoz .hek-ispinoz-dugmeler a{border-color:LinkText}}
+</style>
+<footer class="hek-ispinoz" role="contentinfo" lang="tr">
+  <div class="hek-ispinoz-ic">
+    <div class="hek-ispinoz-ust">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" class="hek-ispinoz-kus" width="96" height="96" aria-hidden="true" focusable="false"><defs><clipPath id="hek-ispinoz-c"><circle cx="200" cy="200" r="196"/></clipPath><radialGradient id="hek-ispinoz-bg" cx="50%" cy="46%" r="62%"><stop offset="0" stop-color="#2B3C48"/><stop offset="1" stop-color="#141F27"/></radialGradient><radialGradient id="hek-ispinoz-halo" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FFB45E" stop-opacity=".55"/><stop offset=".5" stop-color="#E8873F" stop-opacity=".18"/><stop offset="1" stop-color="#E8873F" stop-opacity="0"/></radialGradient><linearGradient id="hek-ispinoz-fA" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FFE7BF"/><stop offset="1" stop-color="#F4E9D6"/></linearGradient><linearGradient id="hek-ispinoz-fB" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FFD9A0"/><stop offset=".6" stop-color="#EEDFC4"/></linearGradient><linearGradient id="hek-ispinoz-fC" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCC7A4"/><stop offset="1" stop-color="#C7AE88"/></linearGradient><linearGradient id="hek-ispinoz-fD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF9EE"/><stop offset="1" stop-color="#F1E4CD"/></linearGradient><pattern id="hek-ispinoz-t" width="46" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-16)"><line x1="3" y1="6" x2="25" y2="6" stroke="#7E6A55" stroke-width="1.2" opacity=".28"/><line x1="29" y1="6" x2="42" y2="6" stroke="#7E6A55" stroke-width="1.2" opacity=".28"/></pattern><filter id="hek-ispinoz-soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter></defs><g clip-path="url(#hek-ispinoz-c)"><rect width="400" height="400" fill="url(#hek-ispinoz-bg)"/><circle cx="208" cy="214" r="150" fill="url(#hek-ispinoz-halo)"/><g transform="translate(204 210) scale(1.16) translate(-206 -224)"><path d="M150 196 L250 248 L214 300" stroke="#FFB45E" stroke-width="14" fill="none" filter="url(#hek-ispinoz-soft)" opacity=".9"/><g stroke="#FBF2E2" stroke-width="1.4" stroke-linejoin="round"><polygon points="262,250 344,236 300,280" fill="url(#hek-ispinoz-fC)"/><polygon points="262,250 300,280 270,286" fill="#B99E78"/><polygon points="150,196 250,248 214,300" fill="url(#hek-ispinoz-fB)"/><polygon points="150,196 214,300 150,286" fill="url(#hek-ispinoz-fC)"/><polygon points="214,300 262,250 250,248" fill="#D6C09C"/><polygon points="166,198 306,150 248,252" fill="url(#hek-ispinoz-fA)"/><polygon points="166,198 248,252 212,256" fill="#E8D6B6"/><polygon points="150,196 120,132 166,150" fill="url(#hek-ispinoz-fD)"/><polygon points="150,196 120,132 106,180" fill="#E4D1B0"/><polygon points="120,132 166,150 148,128" fill="#FFFDF7"/><polygon points="106,160 78,170 106,178" fill="#F0A04A" stroke="none"/><polygon points="106,170 78,170 106,178" fill="#D48537" stroke="none"/></g><polygon points="166,198 306,150 248,252" fill="url(#hek-ispinoz-t)"/><polygon points="150,196 250,248 214,300" fill="url(#hek-ispinoz-t)"/><polygon points="150,196 120,132 166,150" fill="url(#hek-ispinoz-t)"/><path d="M166 198 L248 252" stroke="#FFC774" stroke-width="2.6" stroke-linecap="round"/><path d="M150 196 L214 300" stroke="#FFC774" stroke-width="1.8" stroke-linecap="round" opacity=".7"/><circle cx="127" cy="160" r="5.6" fill="#1D2A33"/><circle cx="128.8" cy="158.2" r="1.8" fill="#FFF"/><circle class="hek-ispinoz-zerre" cx="90" cy="136" r="15" fill="#FFCB80" opacity=".18"/><circle cx="90" cy="136" r="5.5" fill="#FFD796"/><path d="M176 300 l-5 30 M196 302 l1 28" stroke="#C99B5E" stroke-width="3.4" stroke-linecap="round"/><path d="M96 334 C 140 326, 180 338, 220 330 S 300 326, 330 334" stroke="#FFC774" stroke-width="3.4" fill="none" stroke-linecap="round" opacity=".85"/></g></g><circle cx="200" cy="200" r="196" fill="none" stroke="#F3E8D4" stroke-width="6"/></svg>
+      <div class="hek-ispinoz-kim">
+        <p class="hek-ispinoz-ad">[Sitenizin adı]</p>
+        <p class="hek-ispinoz-cumle">[Sitenizi bir cümleyle anlatın.]</p>
+      </div>
+    </div>
+    <svg class="hek-ispinoz-dal" viewBox="0 0 1000 28" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 16 C 120 8, 240 22, 360 14 S 600 6, 720 16 S 900 22, 1000 12" stroke="#FFC774" stroke-width="2.4" fill="none" stroke-linecap="round" opacity=".7" vector-effect="non-scaling-stroke"/></svg>
+    <ul class="hek-ispinoz-dugmeler" aria-label="Sosyal medya">
+      <li><a href="[YouTube adresiniz]">YouTube</a></li>
+      <li><a href="[Instagram adresiniz]">Instagram</a></li>
+      <li><a href="[Blog adresiniz]">Blog</a></li>
+      <li><a href="mailto:[e-posta adresiniz]">E-posta</a></li>
+    </ul>
+    <div class="hek-ispinoz-alt">
+      <nav aria-label="Alt bilgi bağlantıları">
+        <ul>
+          <li><a href="[Hakkında sayfanızın adresi]">Hakkında</a></li>
+          <li><a href="[Gizlilik sayfanızın adresi]">Gizlilik</a></li>
+        </ul>
+      </nav>
+      <p>© [Yıl] [Sitenizin adı] · İspinoz çizimi: Herkese Eğitim</p>
+    </div>
+  </div>
+</footer>
